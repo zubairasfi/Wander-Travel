@@ -1,0 +1,6 @@
+{
+  "name": "WanderAI - Smart AI Travel Planner",
+  "description": "Intelligent AI travel itinerary builder, budget planner, destination explorer, and interactive trip concierge.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
